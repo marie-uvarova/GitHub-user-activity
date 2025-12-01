@@ -4,10 +4,11 @@ A simple CLI user activity tracker.
 
 # How to use
 
-Download githubactivity.py. Make sure to install requests module.
+Download githubactivity.py. Make sure to install ``requests`` module.
 
 Run by using:
-python githubactivity.py <user-name>
+
+``python githubactivity.py <username>``
 
 All the data is saved to test.json file.
 
